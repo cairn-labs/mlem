@@ -10,11 +10,11 @@ use Mix.Config
 
 # You can configure your application as:
 #
-#     config :elixir_ml, key: :value
+#     config :mlem, key: :value
 #
 # and access this configuration in your application as:
 #
-#     Application.get_env(:elixir_ml, :key)
+#     Application.get_env(:mlem, :key)
 #
 # You can also configure a 3rd-party app:
 #

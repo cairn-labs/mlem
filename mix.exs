@@ -3,7 +3,7 @@ defmodule Mlem.Mixfile do
 
   def project do
     [
-      app: :elixir_ml,
+      app: :mlem,
       version: "0.1.0",
       elixir: "~> 1.5",
       start_permanent: Mix.env == :prod,

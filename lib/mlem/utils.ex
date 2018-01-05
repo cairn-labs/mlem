@@ -14,7 +14,7 @@ defmodule Mlem.Utils do
   end
 
   def python_lib_path do
-    Path.join([Application.app_dir(:elixir_ml), "priv", "python"])
+    Path.join([Application.app_dir(:mlem), "priv", "python"])
   end
 
   def root_module_name do
